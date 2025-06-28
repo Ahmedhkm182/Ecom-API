@@ -1,0 +1,15 @@
+D:\Api&angular\Ecom.Core\bin\Debug\net8.0\Ecom.Core.deps.json
+D:\Api&angular\Ecom.Core\bin\Debug\net8.0\Ecom.Core.runtimeconfig.json
+D:\Api&angular\Ecom.Core\bin\Debug\net8.0\Ecom.Core.dll
+D:\Api&angular\Ecom.Core\bin\Debug\net8.0\Ecom.Core.pdb
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.csproj.AssemblyReference.cache
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfoInputs.cache
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfo.cs
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.csproj.CoreCompileInputs.cache
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.sourcelink.json
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.dll
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\refint\Ecom.Core.dll
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.pdb
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\Ecom.Core.genruntimeconfig.cache
+D:\Api&angular\Ecom.Core\obj\Debug\net8.0\ref\Ecom.Core.dll
